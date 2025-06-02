@@ -28,7 +28,7 @@
   "coin_type": "118",
   "min_tx_fee": "3000",
   "addr_prefix": "empe",
-  "logo": "/logos/empe.png",
+  "logo": "/logos/empe.jpg",
   "snapshot_provider": "https://archive-testnet.empe.io",
   "assets": [
     {
