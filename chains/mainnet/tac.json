@@ -1,0 +1,19 @@
+{
+    "chain_name": "tacchain",
+    "coingecko": "",
+    "api": ["https://tacchain-testnet-api.polkachu.com"],
+    "rpc": ["https://tacchain-testnet-rpc.polkachu.com"],
+    "snapshot_provider": "",
+    "sdk_version": "",
+    "coin_type": "118",
+    "min_tx_fee": "",
+    "addr_prefix": "utac",
+    "logo": "/logos/tac.png",
+    "assets": [{
+        "base": "utac",
+        "symbol": "TAC",
+        "exponent": "18",
+        "coingecko_id": "",
+        "logo": "/logos/tacchain-test.png"
+    }]
+}
